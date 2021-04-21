@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [LS-Life RolePlay](https://ls-life.pl)
 
-- 🌱 I’m currently learning **vue.js**
-
 - 👯 I’m looking to collaborate on [LS-Life RolePlay](https://ls-life.pl)
 
 - 🤝 I’m looking for help with [LS-Life RolePlay](https://ls-life.pl)
+
+- 🌱 I’m currently learning **vue.js**
 
 - 💬 Ask me about **html, css, js or lua**
 
