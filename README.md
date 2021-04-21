@@ -12,9 +12,8 @@
 <a href="https://github.com/centurion360/centurion360/issues"><img src="https://img.shields.io/github/issues/centurion360/centurion360" alt="Issues Badge"/></a>
 <a href="https://github.com/centurion360/centurion360/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/centurion360/centurion360?color=2b9348"></a>
 
-<p <img src="https://komarev.com/ghpvc/?username=centurion360&label=Profile%20views&color=brightgreen&style=flat" alt="centurion360"/></p>
-
 <h3 align="center"><img src="https://i.imgur.com/HLknE8y.png">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=centurion360&label=Profile%20views&color=0e75b6&style=flat" alt="centurion360" /> </p>
 
 - 🔭 I’m currently working on [LS-Life RolePlay](https://ls-life.pl) GTA 5 FiveM Server
 
