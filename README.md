@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://discord.gg/2rQrrGqzj8"><img src="https://img.shields.io/discord/834414059867996160.svg?style=flat&label=Join%20Community&color=7289DA" alt="LS-Life | Polish FiveM RolePlay Server"/></a>
+<a href="https://discord.gg/2rQrrGqzj8"><img src="https://img.shields.io/discord/834414059867996160.svg?style=flat&label=LS-Life%20Polish RolePlay Server on FiveM&color=7289DA" alt="LS-Life | Polish FiveM RolePlay Server"/></a>
 <br>
 <a href="https://github.com/centurion360/centurion360/stargazers"><img src="https://img.shields.io/github/stars/centurion360/centurion360" alt="Stars Badge"/></a>
 <a href="https://github.com/centurion360/centurion360/network/members"><img src="https://img.shields.io/github/forks/centurion360/centurion360" alt="Forks Badge"/></a>
