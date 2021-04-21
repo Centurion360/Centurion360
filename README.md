@@ -2,22 +2,16 @@
 <h3 align="center">A passionate frontend and game server developer from Poland</h3>
 
 <div align="center">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
+<img src="https://cdn.rawgit.com/centurion360/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<a href="https://ls-life.pl"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=LS-Life FiveM Polish RolePlay Server&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://discord.gg/"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-<a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
+<a href="https://discord.gg/2rQrrGqzj8"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 <br>
-
-<i>A curated list of awesome Github Profile READMEs</i>
-
 <a href="https://github.com/centurion360/centurion360/stargazers"><img src="https://img.shields.io/github/stars/centurion360/centurion360" alt="Stars Badge"/></a>
 <a href="https://github.com/centurion360/centurion360/network/members"><img src="https://img.shields.io/github/forks/centurion360/centurion360" alt="Forks Badge"/></a>
 <a href="https://github.com/centurion360/centurion360/pulls"><img src="https://img.shields.io/github/issues-pr/centurion360/centurion360" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/centurion360/centurion360/issues"><img src="https://img.shields.io/github/issues/centurion360/centurion360" alt="Issues Badge"/></a>
 <a href="https://github.com/centurion360/centurion360/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/centurion360/centurion360?color=2b9348"></a>
-<a href="https://github.com/centurion360/centurion360/blob/master/LICENSE"><img src="https://img.shields.io/github/license/centurion360/centurion360?color=2b9348" alt="License Badge"/></a>
 
 <h3 align="center"><img src="https://i.imgur.com/HLknE8y.png">
 
