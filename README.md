@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Centurion</h1>
 <h3 align="center">A passionate frontend and game server developer from Poland</h3>
-<img src="https://i/imgur.com/HLknE8y" />
+<img src="https:/imgur.com/HLknE8y"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=centurion360&label=Profile%20views&color=0e75b6&style=flat" alt="centurion360" /> </p>
 
