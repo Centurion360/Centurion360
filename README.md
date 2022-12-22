@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Centurion</h1>
 <h3 align="center">Freelancer & Front-End Developer from Poland</h3>
 
-- 🔭 I’m currently working on FiveM server [Aurora RolePlay](https://aurorarp.pl/)
+- 🔭 I’m currently working on FiveM server [StateV RolePlay](https://statev.pl/)
 
-- 🌱 I’m currently learning **Vue.js**
 
 <h3 align="center"><img src="https://i.imgur.com/HLknE8y.png">
 
