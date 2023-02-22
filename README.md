@@ -11,12 +11,13 @@ I specialise in LUA, which connects with FiveM and allows me to code a variety o
 
 ### Projects I'm working on
 Below are the projects I'm working on, and in the future my work will also be here
-- [StateV RolePlay](https://statev.pl/) - My Roleplay server on FiveM (Polish Language)
+- [StateV Roleplay](https://statev.pl/) - My Roleplay server on FiveM (Polish Language)
+- [StateV Discord](https://discord.gg/WFkUuuprKa) - My Discord server
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Centurion360">
-  <img align="center" style="margin:0.5rem; border-radius:2px" src="https://github-readme-stats.vercel.app/api?username=Centurion360&count_private=true&show_icons=true&line_height=28&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3ea1fc&bg_color=1a100f" alt="Centurion360's GitHub Stats" />
+  <img align="center" style="margin:0.5rem; border-radius:2px" src="https://github-readme-stats.vercel.app/api?username=Centurion360&count_private=true&show_icons=true&line_height=28&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3ea1fc&bg_color=171717" alt="Centurion360's GitHub Stats" />
 </a>
 
 ## 💼 Skills
