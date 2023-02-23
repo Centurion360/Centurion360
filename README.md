@@ -8,7 +8,7 @@
 
 My name is Rafał (Raphael), I'm a young entrepreneur from Poland, I deal with photography as a hobby and professionally, <br>
 I also run other business activities. I am the owner and lead developer of the FiveM Roleplay server called [StateV](https://statev.pl/). <br>
-I specialise in LUA, which connects with FiveM and allows me to code a variety of different resources. I'm also familiar with HTML, CSS, Javascript, and MySQL. I'm also learning React (Typescript) to create unique interfaces for a variety of applications.
+I specialise in LUA, which connects with FiveM and allows me to code a variety of different resources. I'm also familiar with HTML, CSS, Javascript and MySQL. I'm also learning React (Typescript) to create unique interfaces for a variety of applications.
 
 ### Projects I'm working on
 Below are the projects I'm working on, and in the future my work will also be here
