@@ -12,7 +12,7 @@ I specialise in LUA, which connects with FiveM and allows me to code a variety o
 ### Contact with me
 You can contact with me by my [Discord](https://discord.com/users/406761556123189248) - Click on the link!
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/406761556123189248?theme=dark&animated=true&hideDiscrim=false&borderRadius=5px$showDisplayName=true)](https://discord.com/users/406761556123189248)
+[![Discord Presence](https://lanyard.cnrad.dev/api/406761556123189248?theme=dark&animated=true&hideDiscrim=false&borderRadius=5px)](https://discord.com/users/406761556123189248)
 
 ### Projects I'm working on
 Below are the projects I'm working on, and in the future my work will also be here
